@@ -7,7 +7,7 @@ GREEN = "#9bdeac"
 YELLOW = "#f7f5dd"
 FONT_NAME = "Courier"
 CHECK_MARK = "✔"
-WORK_MIN = 1
+WORK_MIN = 25
 SHORT_BREAK_MIN = 2
 LONG_BREAK_MIN = 20
 reps = 0
@@ -48,6 +48,7 @@ def count_down(count):
     else:
         start_timer()
         if reps % 2 == 0:
+            root.deiconify()
             tick.config(text=reps//2 * CHECK_MARK)
 # ---------------------------- UI SETUP ------------------------------- #
 root = tk.Tk()
