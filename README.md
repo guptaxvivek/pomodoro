@@ -41,7 +41,7 @@ Make sure you have Python installed. You can download it from the official websi
 
 
 ![image](https://github.com/guptaxvivek/pomodoro/assets/19484508/fc3d3cc1-c2ec-48fc-b20e-a0fc989a5d3e)
-
+<br>
 Home Screen 
 
 ![image](https://github.com/guptaxvivek/pomodoro/assets/19484508/df127c21-5879-4f5f-8b4a-9cbac846b4d9)
