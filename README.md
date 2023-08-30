@@ -41,12 +41,15 @@ Make sure you have Python installed. You can download it from the official websi
 
 
 ![image](https://github.com/guptaxvivek/pomodoro/assets/19484508/fc3d3cc1-c2ec-48fc-b20e-a0fc989a5d3e)
+
 Home Screen 
 
 ![image](https://github.com/guptaxvivek/pomodoro/assets/19484508/df127c21-5879-4f5f-8b4a-9cbac846b4d9)
+
 Work interval in progress.
 
 ![image](https://github.com/guptaxvivek/pomodoro/assets/19484508/976b40ee-b302-4de3-b8c6-4a8b96ae9696)
+
 Break interval in progress.
 
 
