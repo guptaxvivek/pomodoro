@@ -26,7 +26,7 @@ Make sure you have Python installed. You can download it from the official websi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/pomodoro-timer.git
+   git clone https://github.com/guptaxvivek/pomodoro.git
 
 2. Navigate to the project directory:
 
